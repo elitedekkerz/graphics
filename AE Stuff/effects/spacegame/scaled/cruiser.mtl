@@ -1,0 +1,153 @@
+# Blender MTL File: 'None'
+# Material Count: 14
+
+newmtl default
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_comp1_panel
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/pn2_04.jpg
+
+newmtl default_compresor2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c1_09_01_01.jpg
+
+newmtl default_cushion
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/yx1_02_02_01.jpg
+
+newmtl default_engines
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/ang1_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01_01.jpg
+
+newmtl default_exhaust2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/angar_bo4ka_09_01_01_03.jpg
+
+newmtl default_feed2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c3_12.jpg
+
+newmtl default_gate
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c1_01_02_01_04.jpg
+
+newmtl default_red_lights
+Ns 0.000000
+Ka 0.333333 0.333333 0.333333
+Kd 1.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_seat
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c1_09_01.jpg
+
+newmtl default_ship
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c1ecv1.jpg
+
+newmtl default_skin
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/cp1_01.jpg
+
+newmtl default_windshield
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.800000
+illum 2
+map_Kd /Users/edit/Dropbox/antti/elite dekkerz/spacegame/3d models/es46glu09q-Starcruisermilitary/starcruiser military/Maps/c1_09.jpg
+
+newmtl default_yellow_lights
+Ns 0.000000
+Ka 0.666667 0.666667 0.666667
+Kd 1.000000 1.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

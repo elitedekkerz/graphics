@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="zoomie_info.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4083"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3944"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3962"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#42455f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="813.86477"
+     inkscape:cy="470.17391"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1362"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4939"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px"
+       originx="0px"
+       originy="0px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20,27.625)">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+       x="1080"
+       y="652.375"
+       id="text5016"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="652.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan5086">HI-TECH SPECIFICATIONS:</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="692.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan5153">-KIND OF WORKS</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="732.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3266">-NOT REALLY</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="772.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3268">-BEST QUALITY PLASTIC AND MOULDS</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="812.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3288">-&quot;AS SEEN ON TV&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="852.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3272">-CAN'T SEE ANYTHING, NO ADJUST NEEDED</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="892.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3274">-COME IN BLACK, BLACK AND BLACK</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="932.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3276">-SOME ASSEMBLY MIGHT BE NEEDED</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="972.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan3278">-REQUIRED TOOLS: GLUE</tspan><tspan
+         sodipodi:role="line"
+         x="1080"
+         y="1012.375"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:#000000"
+         id="tspan5139" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="30"
+       y="102.375"
+       id="text5161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5163"
+         x="30"
+         y="102.375">ADJUSTABLE ZOOM SPECTACLES / SUN GLASSES</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1120,392.375 20,0 0,60 -20,0 z"
+       id="rect5165" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1150,352.375 20,0 0,100 -20,0 z"
+       id="rect5167" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1180,322.375 20,0 0,130 -20,0 z"
+       id="rect5169" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1210,272.375 20,0 0,180 -20,0 z"
+       id="rect5171" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1240,202.375 20,0 0,250 -20,0 z"
+       id="rect5173" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1270,252.375 20,0 0,200 -20,0 z"
+       id="rect5175" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1300,312.375 20,0 0,140 -20,0 z"
+       id="rect5177" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1330,322.375 20,0 0,130 -20,0 z"
+       id="rect5179" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1360,252.375 20,0 0,200 -20,0 z"
+       id="rect5181" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1390,222.375 20,0 0,230 -20,0 z"
+       id="rect5183" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1420,282.375 20,0 0,170 -20,0 z"
+       id="rect5185" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1450,372.375 20,0 0,80 -20,0 z"
+       id="rect5187" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1510,392.375 20,0 0,60 -20,0 z"
+       id="rect5189" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1080,462.375 700,0 -700,10 z"
+       id="rect5193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1110,152.375 0,300 -10,0 z"
+       id="rect5195"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="1120"
+       y="512.375"
+       id="text5197"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5199"
+         x="1120"
+         y="512.375">ZOOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-452.375"
+       y="1090"
+       id="text5201"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5203"
+         x="-452.375"
+         y="1090"
+         style="font-size:32px;fill:#000000;stroke:#000000">MENTAL STABILITY</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5303"
+       d="m 1080,592.375 700,0 -700,13.18322 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1480,402.375 20,0 0,50 -20,0 z"
+       id="rect5305" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1540,362.375 20,0 0,90 -20,0 z"
+       id="rect5307" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1570,372.375 20,0 0,80 -20,0 z"
+       id="rect5309" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1600,372.375 20,0 0,80 -20,0 z"
+       id="rect5311" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1630,352.375 20,0 0,100 -20,0 z"
+       id="rect5313" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1660,362.375 20,0 0,90 -20,0 z"
+       id="rect5315" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1690,382.375 20,0 0,70 -20,0 z"
+       id="rect5317" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1720,392.375 20,0 0,60 -20,0 z"
+       id="rect5319" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       d="m 1750,422.375 20,0 0,30 -20,0 z"
+       id="rect5321" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 178,712.375 108,-112"
+       id="path5323"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 622,540.375 190,118"
+       id="path5325"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 422,320 42,80"
+       id="path5327"
+       inkscape:connector-curvature="0"
+       transform="translate(-20,-27.625)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="406"
+       y="254.375"
+       id="text5197-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5199-5"
+         x="406"
+         y="254.375">HIDDEN JALLUVISION SWITCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+       x="927.36224"
+       y="575.80304"
+       id="text5350"
+       sodipodi:linespacing="125%"
+       transform="translate(-20,-27.625)"><tspan
+         sodipodi:role="line"
+         id="tspan5352"
+         x="927.36224"
+         y="575.80304" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5354"
+       y="716.375"
+       x="788"
+       style="font-size:32px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="716.375"
+         x="788"
+         sodipodi:role="line"
+         id="tspan3216">ADJUSTABLE</tspan><tspan
+         y="756.375"
+         x="788"
+         sodipodi:role="line"
+         id="tspan3282">ZOOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="332"
+       y="764.375"
+       id="text5358"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="332"
+         y="764.375"
+         id="tspan3220">&quot;HIGH QUALITY&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="332"
+         y="804.375"
+         id="tspan3286">PLASTIC LENSES</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5303-6"
+       d="m 30,902.375 1000,0 -1000,13.18322 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="30"
+       y="952.375"
+       id="text5398"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5400"
+         x="30"
+         y="952.375">SHOUTOUT TO AURALNAUTS ON YOUTUBE</tspan><tspan
+         sodipodi:role="line"
+         x="30"
+         y="986.427"
+         id="tspan5402"
+         style="font-size:24px;fill:#000000;stroke:#000000">THEY HAVE A GREAT VIDEO ON THESE</tspan></text>
+  </g>
+</svg>
